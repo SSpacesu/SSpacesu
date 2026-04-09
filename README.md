@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Colin 👋
+I'm a programmer, learning to build cool and interesting projects in Python and React Native.
+
+## Skills
+- Python, Java, React Native
+- Git, GitHub
+
+## Projects
+- [Inventory Manager App] WIP
+- [Personal Website]
 
 <!--
 **SSpacesu/SSpacesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
