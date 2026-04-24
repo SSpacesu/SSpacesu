@@ -1,17 +1,19 @@
-# Hi, I'm Colin 👋
-I'm a programmer, learning to build cool and interesting projects in Python and React Native.
+# Hi, I'm Colin Butcher
+I'm a programmer, learning to build cool and interesting projects in Java and React Native.
 
 ## Skills
-- Python, Java, React Native
+- Python, Java, React, React Native, MySQL, Jira
 - Git, GitHub
 
 ## Projects
 - [Inventory Manager App] WIP
+- [Card Matching Minigame]
 - [Personal Website]
 
-<!--
-**SSpacesu/SSpacesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
