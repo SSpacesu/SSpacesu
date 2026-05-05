@@ -6,9 +6,9 @@ I'm a programmer, learning to build cool and interesting projects in Java and Re
 - Git, GitHub
 
 ## Projects
-- [Inventory Manager App] WIP
+- [Inventory Manager App]
 - [Card Matching Minigame]
-- [Personal Website]
+- [Website]
 
 
 
